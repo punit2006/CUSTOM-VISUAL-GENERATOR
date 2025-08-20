@@ -15,27 +15,6 @@ It uses optimized prompts for realistic medical imaging outputs without fine-tun
 
 ---
 
-## 📂 Example Outputs
-
-Here are some sample generated outputs:
-
-* **Ultrasound Scan**
-  ![Ultrasound Example](medical_ultrasound_2.png)
-
-* **X-Ray Scan**
-  ![X-Ray Example](medical_xray_1.png)
-  ![X-Ray Example](medical_xray_2.png)
-  ![X-Ray Example](medical_xray_3.png)
-
-* **Prostate Medical Scans**
-  ![Prostate Example](prostate_medical_1.png)
-  ![Prostate Example](prostate_medical_2.png)
-  ![Prostate Example](prostate_medical_3.png)
-  ![Prostate Example](prostate_medical_4.png)
-  ![Prostate Example](prostate_medical_5.png)
-
----
-
 ## 📦 Installation
 
 Clone this repository and install the required dependencies:
@@ -112,6 +91,6 @@ All images will be saved as `medical_<type>_<id>.png` or `prostate_medical_<id>.
 
 ## 📌 Colab Link
 
-👉 [Run in Google Colab]([https://colab.research.google.com/drive/1sUr2FxkmKmFExRsSmbQtF7Wdn5M3JOen](https://colab.research.google.com/drive/1sUr2FxkmKmFExRsSmbQtF7Wdn5M3JOen?usp=sharing))
+👉 https://colab.research.google.com/drive/1sUr2FxkmKmFExRsSmbQtF7Wdn5M3JOen?usp=sharing
 
 ---
